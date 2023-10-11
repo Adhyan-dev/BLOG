@@ -1,0 +1,40 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv{
+    border: 1px solid lightgray;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv h3,.travel_mainDiv p {
+    margin: 20px;
+    
+}
+.Movie_head{
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 45px;
+    margin-bottom: 15px;
+}
+.Movie_head i{
+    float: right;
+}
+.Movie_text span{
+color: yellow;
+
+
+}
+
+.book{
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+#aboutme iframe {
+    width: 100%;
+    
+}
+
+
